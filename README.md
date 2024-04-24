@@ -1,11 +1,6 @@
-# power_project
-
-## Introduction:
-This project is intended to showcase and document the start-finish modeling and EDA of the “Steel_industry_data.csv”
-
 # Power Modeling and Data Query
 
-This repository contains two Python notebooks for analyzing and querying the “Steel_industry_data.csv”.
+This project is intended to showcase and document the start-finish modeling and EDA of the “Steel_industry_data.csv”
 
 ## Files:
 
