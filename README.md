@@ -16,7 +16,7 @@ This project is intended to showcase and document the start-finish modeling and 
 
 ## To-Do:
 
-- Add detailed comments and documentation to the `power_data_query_April2024.ipynb` notebook for better understanding and maintainability.
+- None at this time.
 
 ## Dataset:
 
